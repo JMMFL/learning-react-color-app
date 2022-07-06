@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.container h1 {
+  font-size: 16px;
+}
+
+.color {
+  width: 100px;
+  height: 100px;
+}

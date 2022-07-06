@@ -1,0 +1,20 @@
+[
+  {
+    "id": "14974028b8574ef1be556312f0b3a96a",
+    "name": "Star Commander Blue",
+    "hex": "#007CBE",
+    "rating": 5
+  },
+  {
+    "id": "396bbba88e20477f8a10434f4b16cf27",
+    "name": "Cyber Yellow",
+    "hex": "#FFD639",
+    "rating": 4
+  },
+  {
+    "id": "b855930d6e4341dfa68b63ebf938b959",
+    "name": "Dark Liver",
+    "hex": "#5A464C",
+    "rating": 1
+  }
+]
